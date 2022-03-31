@@ -62,7 +62,7 @@
   },
   "devDependencies": {
     "glob": "7.1.1",
-    "minimist": "1.2.3",
+    "minimist": "1.2.6",
     "webpack-dev-server": "4.0.0-beta.3"
   },
   "scripts": {
